@@ -1,4 +1,4 @@
-pipimport numpy as np
+import numpy as np
 import random
 
 random.seed(80)
